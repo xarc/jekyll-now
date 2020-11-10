@@ -8,12 +8,12 @@ XARC is an extensible architecture for reliable multi-core systems.
 
 ### Team
 
-[Douglas Rossi de Melo](mailto:drm@ieee.org)¹²³, [Cesar Albenes Zeferino](mailto:zeferino@univali.br)¹, [Luigi Dilillo](mailto:dilillo@lirmm.fr)², [Eduardo Augusto Bezerra](mailto:eduardo.bezerra@ufsc.br)³
+[Douglas Rossi Melo](mailto:drm@ieee.org)¹²³, [Cesar Albenes Zeferino](mailto:zeferino@univali.br)¹, [Luigi Dilillo](mailto:dilillo@lirmm.fr)², [Eduardo Augusto Bezerra](mailto:eduardo.bezerra@ufsc.br)³
 
 
-[1] Laboratory of Embedded and Distributed Systems, University of Vale do Itajaí, Brazil  
-[2] Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier, France  
-[3] Laboratory of Communications and Embedded Systems, Federal University of Santa Catarina, Brazil
+[1] University of Vale do Itajaí, LEDS, Brazil  
+[2] University of Montpellier, LIRMM, France  
+[3] Federal University of Santa Catarina, SpaceLab, Brazil
 
 ### Repository
 
