@@ -12,4 +12,4 @@ HARV - HArdened Risc-V
 
 ### Maintainer
 
-[Douglas Almeida Santos](https://github.com/Douglasas)
+[Douglas A. Santos](https://github.com/Douglasas)
